@@ -59,7 +59,7 @@ Use Node JS to create a LIRI bot, that takes in commands through Language vs Spe
      * Venue location
 
      * Date of the Event (using the format "MM/DD/YYYY")
-     
+
 2. **`node liri.js spotify-this-song '<song name here>'`**
 
    * Displays the following information about the selected song in your terminal/bash window
@@ -95,5 +95,9 @@ Use Node JS to create a LIRI bot, that takes in commands through Language vs Spe
 
      * Runs `spotify-this-song` for "I Want it That Way".
      
+## Demonstration Video
+     
+To see a YouTube video demonstrating how Liri works, just click on the following link:
 
+https://youtu.be/aekKX80BTd8
    
